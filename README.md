@@ -83,11 +83,6 @@ Full-stack workforce platform for managing employees and business operations.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-two-rho-27.vercel.app/api?username=vinaykumarrtx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Vinay Kumar's GitHub statistics"
-  />
-  <img
-    height="170"
     src="https://github-readme-stats-two-rho-27.vercel.app/api/top-langs/?username=vinaykumarrtx&layout=compact&theme=tokyonight&hide_border=true"
     alt="Vinay Kumar's most used programming languages"
   />
