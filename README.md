@@ -4,10 +4,10 @@
 
 <p align="left">
   <a href="https://github.com/vinaykumarrtx">
-    <img src="https://img.shields.io/badge/GitHub-vinaykumarrtx-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-vinaykumarrtx-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://in.linkedin.com/in/vinay-kumar-parth">
-    <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
@@ -16,8 +16,8 @@
 ## 👨‍💻 About Me
 
 - 💻 MERN Stack Developer with **2+ years of web development experience**
-- ⚛️ Building applications with **React.js, Node.js, Express.js & MongoDB**
-- 🔐 Experience with authentication, authorization and REST APIs
+- ⚛️ Building applications with **React.js, Node.js, Express.js, and MongoDB**
+- 🔐 Experience with authentication, authorization, and REST APIs
 - 📊 Experience building dashboards and business applications
 - 🤖 Interested in **AI-powered applications**
 - 🎓 B.Tech — Panjab University | **CGPA: 8.01**
@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,redux,bootstrap,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,redux,bootstrap,git,github,docker,postman" alt="Technology stack" />
 </p>
 
 ---
@@ -36,30 +36,30 @@
 
 ### 🤖 AI-Powered Resume Builder
 
-AI-powered application for creating professional and ATS-friendly resumes.
+AI-powered application for creating professional, ATS-friendly resumes.
 
 **React.js · Node.js · MongoDB · Gemini API**
 
 - AI-assisted resume generation
 - Real-time resume editing
 - ATS-focused content generation
-- Authentication & user management
+- Authentication and user management
 - AI API failure handling
 
 ---
 
 ### 📧 Email Campaign Management System
 
-A scalable platform for creating, scheduling and managing email campaigns.
+A scalable platform for creating, scheduling, and managing email campaigns.
 
 **React.js · Node.js · MongoDB · BullMQ · Redis**
 
 - Campaign scheduling
 - Background job processing
 - SMTP pool management
-- Open & click tracking
+- Open and click tracking
 - Bounce handling
-- Warm-up & cool-down scheduling
+- Warm-up and cool-down scheduling
 
 ---
 
@@ -81,8 +81,16 @@ Full-stack workforce platform for managing employees and business operations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinaykumarrtx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarrtx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats-two-rho-27.vercel.app/api?username=vinaykumarrtx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Vinay Kumar's GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-two-rho-27.vercel.app/api/top-langs/?username=vinaykumarrtx&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Vinay Kumar's most used programming languages"
+  />
 </p>
 
 ---
@@ -90,7 +98,10 @@ Full-stack workforce platform for managing employees and business operations.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarrtx&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarrtx&theme=tokyonight&hide_border=true"
+    alt="Vinay Kumar's GitHub contribution streak"
+  />
 </p>
 
 ---
@@ -98,7 +109,10 @@ Full-stack workforce platform for managing employees and business operations.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinaykumarrtx/vinaykumarrtx/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/vinaykumarrtx/vinaykumarrtx/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
@@ -121,10 +135,10 @@ Full-stack workforce platform for managing employees and business operations.
 
 <p align="center">
   <a href="https://github.com/vinaykumarrtx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://in.linkedin.com/in/vinay-kumar-parth">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -134,6 +148,6 @@ Full-stack workforce platform for managing employees and business operations.
 
 ### 💻 Build • Learn • Ship • Repeat
 
-<img src="https://komarev.com/ghpvc/?username=vinaykumarrtx&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=vinaykumarrtx&style=flat-square&color=blue" alt="Profile views" />
 
 </p>
