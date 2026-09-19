@@ -110,7 +110,7 @@ Full-stack workforce platform for managing employees and business operations.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/vinaykumarrtx/vinaykumarrtx/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/vinaykumarrtx/vinaykumartx/78190d7a98cb6f58d5b79fa4e1be7ae9b1e3a982/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
